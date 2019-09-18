@@ -3,8 +3,7 @@ using System;
 namespace tasklist_api_aspnet_core.models
 {
     public class Item
-    {
-        
+    {        
         public Item()
         {
             this.Id = 0;
